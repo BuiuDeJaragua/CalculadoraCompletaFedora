@@ -1,2 +1,2 @@
 # CalculadoraCompletaFedora
-Calculadora Completa Fedora
+Calculadora Completa para Fedora
